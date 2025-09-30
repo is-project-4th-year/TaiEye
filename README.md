@@ -131,8 +131,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-### Notes
-- **Professional & Visual**: Emphasizes Streamlit UI with heatmaps and word clouds, avoiding iterative model details as requested.
-- **Firebase Authentication**: Integrated with setup instructions, mirroring secure access needs.
-- **Structure**: Adapted from your example, removing outdated sections (e.g., LLM experiments) and focusing on TAIEYE’s current scope.
-- **Conciseness**: Streamlined for clarity and professionalism.
